@@ -1,0 +1,29 @@
+.navbar{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+    border-radius: 5%;
+    height: 60px;
+    font-size: 50px;
+    border: 5px;
+}
+button{
+    align-items: center;
+    margin-top: 50vh;
+    justify-content: center;
+    display: flex;
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100px;
+    width: 500px;
+    font-style: normal;
+    color: antiquewhite;
+    font-size: 100px;
+    border-radius: 5%;
+    border: 2px solid white;
+}
+div{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
